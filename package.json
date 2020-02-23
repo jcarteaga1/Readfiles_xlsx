@@ -1,0 +1,24 @@
+{
+  "name": "read_excel_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "multer": "^1.4.2",
+    "path": "^0.12.7",
+    "pg": "^7.18.2",
+    "pool": "^0.4.1",
+    "sequelize": "^5.21.5",
+    "sequelize-cli": "^5.5.1",
+    "xlsx": "^0.15.5"
+  }
+}
